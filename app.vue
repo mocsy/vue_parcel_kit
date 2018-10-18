@@ -14,8 +14,8 @@ export default {
 }
 </script>
 
-<style lang="css">
-  #app {
+<style scoped>
+  span {
     color: #2e9704;
   }
 </style>
